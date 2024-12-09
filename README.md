@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+- Full-Stack Software Engineer
+- UC San Diego - B.S. Mathematics and Computer Science
 
 <!--
 **HabeckerDev/HabeckerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
